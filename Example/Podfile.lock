@@ -1,0 +1,14 @@
+PODS:
+  - CoolnessPod (0.1.0)
+
+DEPENDENCIES:
+  - CoolnessPod (from `../`)
+
+EXTERNAL SOURCES:
+  CoolnessPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoolnessPod: bbd63e315e23142e4d74593c4458496605296206
+
+COCOAPODS: 0.39.0

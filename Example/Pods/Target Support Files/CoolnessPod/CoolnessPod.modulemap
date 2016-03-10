@@ -1,0 +1,6 @@
+framework module CoolnessPod {
+  umbrella header "CoolnessPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
